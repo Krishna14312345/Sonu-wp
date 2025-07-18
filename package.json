@@ -1,0 +1,19 @@
+{
+  "name": "mr-sharabi-wp-tool",
+  "version": "1.0.0",
+  "description": "🦋𝗠𝗥-𝗦𝗛𝗔𝗥𝗔𝗕𝗜-𝗪𝗣-𝗧𝗢𝗢𝗟🦋 - Premium WhatsApp automation tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MR-DEVIL",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "node-cache": "^5.1.2",
+    "pino": "^8.21.0"
+  }
+}
